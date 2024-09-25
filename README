@@ -1,0 +1,3 @@
+readLEDMapping.py is a simple python script to read out LED information from the led_mapping.json file. It can read out the configuration of different LED channels for different mPMT slot or card ids
+
+led_mapping.json is made by modulo using the makeMappingJson.py script. This would need to be re-run if either the mPMT slots in the detector or mapping of the LEDs is updated in modulo 
